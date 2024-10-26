@@ -1,0 +1,19 @@
+div {
+    font-size: 100px;
+    display: flex;
+
+    justify-content: center;
+}
+
+.divOne {
+    background-color:crimson;
+}
+
+.divTwo {
+    background-color: violet;
+}
+
+.divThree {
+    font-size: 300px;
+    text-shadow: 1mm;
+}
